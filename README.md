@@ -22,7 +22,7 @@ pod 'LZNetworkHelper'
 
 ## Author
 
-lizhi1026@126.com, lizhi1026@126.com
+lizhi1026@126.com
 
 ## License
 
