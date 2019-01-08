@@ -10,7 +10,14 @@
 #endif
 #endif
 
+#import "LZError.h"
+#import "LZHttpDownloadTask.h"
+#import "LZHttpResponse.h"
+#import "LZHttpTask.h"
+#import "LZNetworkConfiguration.h"
 #import "LZNetworkHelper.h"
+#import "LZNetworkManager+Cache.h"
+#import "LZNetworkManager.h"
 
 FOUNDATION_EXPORT double LZNetworkHelperVersionNumber;
 FOUNDATION_EXPORT const unsigned char LZNetworkHelperVersionString[];
