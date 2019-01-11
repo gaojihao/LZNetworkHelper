@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/gaojihao/LZNetworkHelper'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lizhi' => 'lizhi1026@126.com' }
+  s.author           = { 'lizhi1026@126.com' => 'gaojihao' }
   s.source           = { :git => 'https://github.com/gaojihao/LZNetworkHelper.git', :tag => s.version.to_s}
   
   s.ios.deployment_target = '8.0'
